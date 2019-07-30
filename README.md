@@ -1,17 +1,17 @@
 # GoLearning
 Goの入門です。
 
-h1. 環境
-* GOPATH配下の構造  
+# 環境
+## GOPATH配下の構造  
 C:.  
 ├─bin  
 ├─pkg  
-│  └─windows_386  
-│      └─gosample  
+│ &nbsp;└─windows_386  
+│ &nbsp;&nbsp;└─gosample  
 └─src  
-    └─gosample  
-        ├─main  
-        └─sample  
+&nbsp;└─gosample  
+&nbsp;&nbsp; ├─main  
+&nbsp;&nbsp;└─sample  
 
-h1. サンプル
+# サンプル
 　sampleパッケージをmainインポートして利用
