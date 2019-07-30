@@ -6,12 +6,16 @@ Goの入門です。
 C:.  
 ├─bin  
 ├─pkg  
-│ &nbsp;└─windows_386  
-│ &nbsp;&nbsp;└─gosample  
+│&nbsp;└─windows_386  
+│&nbsp;&nbsp;└─gosample  
 └─src  
 &nbsp;└─gosample  
-&nbsp;&nbsp; ├─main  
+&nbsp;&nbsp;├─main  
 &nbsp;&nbsp;└─sample  
 
-# サンプル
-　sampleパッケージをmainインポートして利用
+# サンプル１
+　* main.go:sampleパッケージをmainインポートして利用し、基本的な構文を記載
+# サンプル２
+  * server.go:webserver.
+  * 起動コマンド：go run server.go
+  * アクセスURL：http://localhost:3000
