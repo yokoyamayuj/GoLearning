@@ -14,8 +14,10 @@ C:.
 &nbsp;&nbsp;└─sample  
 
 # サンプル１
-　* main.go:sampleパッケージをmainインポートして利用し、基本的な構文を記載
+　* simple.go:sampleパッケージをmainインポートして利用し、基本的な構文を記載
 # サンプル２
+　* sample.go
+# サンプル３
   * server.go:webserver.
   * 起動コマンド：go run server.go
   * アクセスURL：http://localhost:3000

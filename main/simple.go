@@ -56,10 +56,5 @@ func main(){
 
   // TODO:panic,recover,defer
 
-  // 3章：struct,method,interface,reciver
-
-  //
-
-
 }
 
